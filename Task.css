@@ -1,0 +1,18 @@
+.div-container, .bigDiv{
+    border: 2px solid black;
+    border-radius: 1rem;
+    padding: 8px;
+    margin:10px;
+    position:relative;
+    width:20vw;;
+}
+#display{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.bigDiv{
+    width: 40vw;
+    background-color: #346;
+    left:0;
+}
